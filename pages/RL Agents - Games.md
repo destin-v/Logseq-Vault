@@ -1,21 +1,21 @@
 - #### Games
   id:: 63b39b31-2b2a-4139-884c-cc6c6559877b
 	- #### Mazes
-		- ![Unsupervised Predictive Memory in a Goal-Directed Agent.pdf](../assets/Unsupervised_Predictive_Memory_in_a_Goal-Directed_Agent_1672676807376_0.pdf) [[Games]]
+		- ![Unsupervised Predictive Memory in a Goal-Directed Agent.pdf](../assets/Unsupervised_Predictive_Memory_in_a_Goal-Directed_Agent_1672676807376_0.pdf)
 	- #### Othello
-		- ![Learning to Play Othello Without Human Knowledge.pdf](../assets/Learning_to_Play_Othello_Without_Human_Knowledge_1672676856350_0.pdf) [[Games]]
+		- ![Learning to Play Othello Without Human Knowledge.pdf](../assets/Learning_to_Play_Othello_Without_Human_Knowledge_1672676856350_0.pdf)
 	- #### Chess
-		- ![Giraffe - Using Deep Reinforcement Learning to Play Chess.pdf](../assets/Giraffe_-_Using_Deep_Reinforcement_Learning_to_Play_Chess_1672627504036_0.pdf) [[Games]]
-		- ![Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm.pdf](../assets/Mastering_Chess_and_Shogi_by_Self-Play_with_a_General_Reinforcement_Learning_Algorithm_1672627510039_0.pdf) [[Games]]
+		- ![Giraffe - Using Deep Reinforcement Learning to Play Chess.pdf](../assets/Giraffe_-_Using_Deep_Reinforcement_Learning_to_Play_Chess_1672627504036_0.pdf)
+		- ![Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm.pdf](../assets/Mastering_Chess_and_Shogi_by_Self-Play_with_a_General_Reinforcement_Learning_Algorithm_1672627510039_0.pdf)
 	- #### Go
-		- ![Mastering the Game of Go with Deep Neural Networks and Tree Search.pdf](../assets/Mastering_the_Game_of_Go_with_Deep_Neural_Networks_and_Tree_Search_1672676664634_0.pdf) [[Games]]
+		- ![Mastering the Game of Go with Deep Neural Networks and Tree Search.pdf](../assets/Mastering_the_Game_of_Go_with_Deep_Neural_Networks_and_Tree_Search_1672676664634_0.pdf)
 		  collapsed:: true
 			- ![alpha_go_zero_cheat_sheet.png](../assets/alpha_go_zero_cheat_sheet_1672676685333_0.png)
-		- ![Mastering the Game of Go without Human Knowledge.pdf](../assets/Mastering_the_Game_of_Go_without_Human_Knowledge_1672676678146_0.pdf) [[Games]]
+		- ![Mastering the Game of Go without Human Knowledge.pdf](../assets/Mastering_the_Game_of_Go_without_Human_Knowledge_1672676678146_0.pdf)
 	- #### DOTA
-		- ![Dota 2 with Large Scale Deep Reinforcement Learning.pdf](../assets/Dota_2_with_Large_Scale_Deep_Reinforcement_Learning_1672676650538_0.pdf) [[Games]]
+		- ![Dota 2 with Large Scale Deep Reinforcement Learning.pdf](../assets/Dota_2_with_Large_Scale_Deep_Reinforcement_Learning_1672676650538_0.pdf)
 	- #### Super Smash Bros
-		- ![Beating the World’s Best at Super Smash Bros. Melee with Deep Reinforcement.pdf](../assets/Beating_the_World’s_Best_at_Super_Smash_Bros._Melee_with_Deep_Reinforcement_1672627353600_0.pdf) [[Games]]
+		- ![Beating the World’s Best at Super Smash Bros. Melee with Deep Reinforcement.pdf](../assets/Beating_the_World’s_Best_at_Super_Smash_Bros._Melee_with_Deep_Reinforcement_1672627353600_0.pdf)
 	- #### StarCraft II
-		- ![Grandmaster level in StarCraft II using multi-agent reinforcement learning.pdf](../assets/Grandmaster_level_in_StarCraft_II_using_multi-agent_reinforcement_learning_1672676876691_0.pdf) [[Games]]
-		- ![AlphaStar - Considerations andHuman-like Constraints for Deep Learning Game Interfaces.pdf](../assets/AlphaStar_-_Considerations_andHuman-like_Constraints_for_Deep_Learning_Game_Interfaces_1672677058919_0.pdf) [[Games]]
+		- ![Grandmaster level in StarCraft II using multi-agent reinforcement learning.pdf](../assets/Grandmaster_level_in_StarCraft_II_using_multi-agent_reinforcement_learning_1672676876691_0.pdf)
+		- ![AlphaStar - Considerations andHuman-like Constraints for Deep Learning Game Interfaces.pdf](../assets/AlphaStar_-_Considerations_andHuman-like_Constraints_for_Deep_Learning_Game_Interfaces_1672677058919_0.pdf)
