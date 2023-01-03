@@ -14,6 +14,3 @@
 	-
 - ![Wide Residual Networks.pdf](../assets/Wide_Residual_Networks_1672624355270_0.pdf)
 - ![You Only Look Once Unified, Real-Time Object Detection.pdf](../assets/You_Only_Look_Once_Unified,_Real-Time_Object_Detection_1672624360859_0.pdf)
-	-
-	-
-	-
