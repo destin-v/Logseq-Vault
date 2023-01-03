@@ -1,0 +1,4 @@
+- # Cheat Sheets
+	- ![Scikit-Learn Cheat Sheet 1:2.png](../assets/Scikit-Learn_Cheat_Sheet_1:2_1672679389515_0.png)
+	- ![SciPy Cheat Sheet.png](../assets/SciPy_Cheat_Sheet_1672679393477_0.png)
+	-

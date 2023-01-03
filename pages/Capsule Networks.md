@@ -1,0 +1,9 @@
+- ![Capsules for Object Segmentation.pdf](../assets/Capsules_for_Object_Segmentation_1672620795862_0.pdf)
+- ![Detecting Adversaries by Reconstruction from Class Conditional Capsules.pdf](../assets/Detecting_Adversaries_by_Reconstruction_from_Class_Conditional_Capsules_1672620801335_0.pdf)
+- ![Dynamic Routing Between Capsules.pdf](../assets/Dynamic_Routing_Between_Capsules_1672620707850_0.pdf)
+- ![Matrix Capsules with EM Routing.pdf](../assets/Matrix_Capsules_with_EM_Routing_1672620813768_0.pdf)
+- ![On Learning and Learned Data Representation by Capsule Networks.pdf](../assets/On_Learning_and_Learned_Data_Representation_by_Capsule_Networks_1672620879892_0.pdf)
+- ![Self Routing Capsule Networks.pdf](../assets/Self_Routing_Capsule_Networks_1672620889323_0.pdf)
+- ![Stacked Capsule Autoencoders.pdf](../assets/Stacked_Capsule_Autoencoders_1672620893844_0.pdf)
+- ![Transforming Auto-encoders.pdf](../assets/Transforming_Auto-encoders_1672620899199_0.pdf)
+-

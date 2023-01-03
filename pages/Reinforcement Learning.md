@@ -1,0 +1,82 @@
+- # Overview
+	- ![A Brief Survey of Deep Reinforcement Learning.pdf](../assets/A_Brief_Survey_of_Deep_Reinforcement_Learning_1672627313337_0.pdf)
+- # Books
+	- ![bookdraft2017.pdf](../assets/bookdraft2017_1672678693378_0.pdf)[[Books]]
+	- ![bookdraft2018.pdf](../assets/bookdraft2018_1672678719784_0.pdf)[[Books]]
+	- ![Solution Manual.pdf](../assets/Solution_Manual_1672678742844_0.pdf)[[Books]]
+	- TODO: add MATLAB
+	- TODO: add Python
+- # Q-Learning
+	- ![Deep Recurrent Q-Learning for Partially Observable MDPs.pdf](../assets/Deep_Recurrent_Q-Learning_for_Partially_Observable_MDPs_1672677941740_0.pdf)
+	- ![Deep Reinforcement Learning from Self-Play in Imperfect-Information Games.pdf](../assets/Deep_Reinforcement_Learning_from_Self-Play_in_Imperfect-Information_Games_1672677947468_0.pdf)
+	- ![Deep Reinforcement Learning with Double Q-learning.pdf](../assets/Deep_Reinforcement_Learning_with_Double_Q-learning_1672677952025_0.pdf)
+	- ![A Distributional Perspective on Reinforcement Learning.pdf](../assets/A_Distributional_Perspective_on_Reinforcement_Learning_1672677961419_0.pdf)
+		- ![Distributional reinforcement learning with linear function approximation.pdf](../assets/Distributional_reinforcement_learning_with_linear_function_approximation_1672677968010_0.pdf)
+		- ![Distributional Reinforcement Learning with Quantile Regression.pdf](../assets/Distributional_Reinforcement_Learning_with_Quantile_Regression_1672677986112_0.pdf)
+		- TODO: add webarchive
+		- TODO: add excalidraw
+	- ![Hindsight Experience Replay.pdf](../assets/Hindsight_Experience_Replay_1672678076619_0.pdf)
+	- ![How to Discount Deep Reinforcement Learning Towards New Dynamic Strategies.pdf](../assets/How_to_Discount_Deep_Reinforcement_Learning_Towards_New_Dynamic_Strategies_1672678083484_0.pdf)
+	- ![Human-level control through deep reinforcement learning - DQNNaturePaper.pdf](../assets/Human-level_control_through_deep_reinforcement_learning_-_DQNNaturePaper_1672678088667_0.pdf)
+	- ![Implicit Quantile Networks for Distributional Reinforcement Learning.pdf](../assets/Implicit_Quantile_Networks_for_Distributional_Reinforcement_Learning_1672678093169_0.pdf)
+	- ![Playing Atari with Deep Reinforcement Learning.pdf](../assets/Playing_Atari_with_Deep_Reinforcement_Learning_1672678097589_0.pdf)
+	- ![Prioritized Replay Experience.pdf](../assets/Prioritized_Replay_Experience_1672678101660_0.pdf)
+	- ![The Effects of Memory Replay in Reinforcement Learning.pdf](../assets/The_Effects_of_Memory_Replay_in_Reinforcement_Learning_1672678105925_0.pdf)
+- # Actor Critic
+	- ![Continuous Control with Deep Reinforcement Learning.pdf](../assets/Continuous_Control_with_Deep_Reinforcement_Learning_1672627364861_0.pdf)
+	- ![Deterministic Policy Gradient Algorithms.pdf](../assets/Deterministic_Policy_Gradient_Algorithms_1672627372103_0.pdf)
+	- ![High-Dimensional Continuous Control Using Generalized Advantage Estimation.pdf](../assets/High-Dimensional_Continuous_Control_Using_Generalized_Advantage_Estimation_1672627426028_0.pdf)
+	- ![IMPALA.pdf](../assets/IMPALA_1672627430463_0.pdf)
+	- ![Optimizing Expectations - From Deep Reinforcement Learning to Stochastic Computation Graphs.pdf](../assets/Optimizing_Expectations_-_From_Deep_Reinforcement_Learning_to_Stochastic_Computation_Graphs_1672627434499_0.pdf)
+	- ![Proximal Policy Optimization Algorithms.pdf](../assets/Proximal_Policy_Optimization_Algorithms_1672627441191_0.pdf)
+	- ![Self-Imitation Learning.pdf](../assets/Self-Imitation_Learning_1672627449382_0.pdf)
+	- ![Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning.pdf](../assets/Simple_Statistical_Gradient-Following_Algorithms_for_Connectionist_Reinforcement_Learning_1672627453196_0.pdf)
+	- ![Soft Actor Critic.pdf](../assets/Soft_Actor_Critic_1672627457090_0.pdf)
+	- ![Trust Region Policy Optimization.pdf](../assets/Trust_Region_Policy_Optimization_1672627460835_0.pdf)
+- # Exploration
+	- ## Curiosity
+		- ![Curiosity-driven Exploration by Self-supervised Prediction.pdf](../assets/Curiosity-driven_Exploration_by_Self-supervised_Prediction_1672627474818_0.pdf)
+		- ![Large-Scale Study of Curiosity-Driven Learning.pdf](../assets/Large-Scale_Study_of_Curiosity-Driven_Learning_1672627478835_0.pdf)
+	- ## Maximum Entropy
+		- ![Maximum Entropy RL (Provably) Solves Some Robust RL Problems.pdf](../assets/Maximum_Entropy_RL_(Provably)_Solves_Some_Robust_RL_Problems_1672677413442_0.pdf)
+		  collapsed:: true
+			- [Maximum Entropy RL (Provably) Solves Some Robust RL Problems – The Berkeley Artificial Intelligence .webarchive](../assets/Maximum_Entropy_RL_(Provably)_Solves_Some_Robust_RL_Problems_–_The_Berkeley_Artificial_Intelligence_1672677418698_0.webarchive)
+			-
+- # Model Based
+	- ![Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model.pdf](../assets/Mastering_Atari,_Go,_Chess_and_Shogi_by_Planning_with_a_Learned_Model_1672677627589_0.pdf)[[Games]]
+		- [Mastering Atari with Discrete World Models.webarchive](../assets/Mastering_Atari_with_Discrete_World_Models_1672677634660_0.webarchive)
+	- ![Transformers are Sample Efficient World Models.pdf](../assets/Transformers_are_Sample_Efficient_World_Models_1672677642333_0.pdf)
+- # Multi-Agent
+	- ![Contrasting Centralized and Decentralized Critics in Multi-Agent Reinforcement Learning.pdf](../assets/Contrasting_Centralized_and_Decentralized_Critics_in_Multi-Agent_Reinforcement_Learning_1672677803212_0.pdf)
+	- ![Fictitious Self-Play in Extensive-Form Games.pdf](../assets/Fictitious_Self-Play_in_Extensive-Form_Games_1672677809384_0.pdf)
+	- ![Learning to Communicate with Deep Multi-Agent Reinforcement Learning.pdf](../assets/Learning_to_Communicate_with_Deep_Multi-Agent_Reinforcement_Learning_1672677817834_0.pdf)
+	- ![Revisiting Some Common Practices in Cooperative Multi-Agent Reinforcement Learning.pdf](../assets/Revisiting_Some_Common_Practices_in_Cooperative_Multi-Agent_Reinforcement_Learning_1672677824528_0.pdf)
+	-
+- # Games
+	- ## Mazes
+		- ![Unsupervised Predictive Memory in a Goal-Directed Agent.pdf](../assets/Unsupervised_Predictive_Memory_in_a_Goal-Directed_Agent_1672676807376_0.pdf) [[Games]]
+	- ## Othello
+		- ![Learning to Play Othello Without Human Knowledge.pdf](../assets/Learning_to_Play_Othello_Without_Human_Knowledge_1672676856350_0.pdf) [[Games]]
+	- ## Chess
+		- ![Giraffe - Using Deep Reinforcement Learning to Play Chess.pdf](../assets/Giraffe_-_Using_Deep_Reinforcement_Learning_to_Play_Chess_1672627504036_0.pdf) [[Games]]
+		- ![Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm.pdf](../assets/Mastering_Chess_and_Shogi_by_Self-Play_with_a_General_Reinforcement_Learning_Algorithm_1672627510039_0.pdf) [[Games]]
+	- ## Go
+		- ![Mastering the Game of Go with Deep Neural Networks and Tree Search.pdf](../assets/Mastering_the_Game_of_Go_with_Deep_Neural_Networks_and_Tree_Search_1672676664634_0.pdf) [[Games]]
+		  collapsed:: true
+			- ![alpha_go_zero_cheat_sheet.png](../assets/alpha_go_zero_cheat_sheet_1672676685333_0.png)
+		- ![Mastering the Game of Go without Human Knowledge.pdf](../assets/Mastering_the_Game_of_Go_without_Human_Knowledge_1672676678146_0.pdf) [[Games]]
+	- ## DOTA
+		- ![Dota 2 with Large Scale Deep Reinforcement Learning.pdf](../assets/Dota_2_with_Large_Scale_Deep_Reinforcement_Learning_1672676650538_0.pdf) [[Games]]
+	- ## Super Smash Bros
+		- ![Beating the World’s Best at Super Smash Bros. Melee with Deep Reinforcement.pdf](../assets/Beating_the_World’s_Best_at_Super_Smash_Bros._Melee_with_Deep_Reinforcement_1672627353600_0.pdf) [[Games]]
+	- ## StarCraft II
+		- ![Grandmaster level in StarCraft II using multi-agent reinforcement learning.pdf](../assets/Grandmaster_level_in_StarCraft_II_using_multi-agent_reinforcement_learning_1672676876691_0.pdf) [[Games]]
+		- ![AlphaStar - Considerations andHuman-like Constraints for Deep Learning Game Interfaces.pdf](../assets/AlphaStar_-_Considerations_andHuman-like_Constraints_for_Deep_Learning_Game_Interfaces_1672677058919_0.pdf) [[Games]]
+- # Offline
+	- ![How to Leverage Unlabeled Data in Offline Reinforcement Learning.pdf](../assets/How_to_Leverage_Unlabeled_Data_in_Offline_Reinforcement_Learning_1672677887517_0.pdf)
+- # Parallel Computing
+	- ![Asynchronous Methods for Deep Reinforcement Learning.pdf](../assets/Asynchronous_Methods_for_Deep_Reinforcement_Learning_1672677904946_0.pdf)
+	- ![Sample Factory - Egocentric 3D Control from Pixels at 100000 FPS with Asynchronous Reinforcement Learning.pdf](../assets/Sample_Factory_-_Egocentric_3D_Control_from_Pixels_at_100000_FPS_with_Asynchronous_Reinforcement_Learning_1672677909938_0.pdf) [[Games]]
+- # Libraries
+	- ![RLlib - Abstractions for Distributed Reinforcement Learning.pdf](../assets/RLlib_-_Abstractions_for_Distributed_Reinforcement_Learning_1672677101916_0.pdf) [[Ray]]
+	- ![Tianshou - a Highly Modularized Deep Reinforcement Learning Library.pdf](../assets/Tianshou_-_a_Highly_Modularized_Deep_Reinforcement_Learning_Library_1672677194957_0.pdf)[[Ray]]

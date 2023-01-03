@@ -1,0 +1,3 @@
+- # Cheat Sheets
+	- ![Numpy Cheat Sheet.png](../assets/Numpy_Cheat_Sheet_1672679174706_0.png)
+	-

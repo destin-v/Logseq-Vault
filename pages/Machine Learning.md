@@ -1,0 +1,32 @@
+- # Books
+	- ![Deep_Learning_with_Python_Second_Editio.pdf](../assets/Deep_Learning_with_Python_Second_Editio_1672678878356_0.pdf)[[Books]]
+	- ![Deep_Learning_with_PyTorch.pdf](../assets/Deep_Learning_with_PyTorch_1672678894461_0.pdf)[[Books]]
+	- ![Ng_MLY01_08.pdf](../assets/Ng_MLY01_08_1672678909696_0.pdf)[[Books]]
+- # Subfields
+	- ## Computer Vision
+		- [[Capsule Networks]]
+		- [[Convolutional]]
+		- [[Datasets]]
+		- [[Diffusion]]
+		- [[Generative Adversarial Networks]]
+		- [[Representation]]
+	- ## Natural Language
+		- [[Natural Language]]
+- # History
+  collapsed:: true
+	- ![Economist AI 1.1.png](../assets/Economist_AI_1.1_1672678976869_0.png)
+	- ![Economist AI 1.2.png](../assets/Economist_AI_1.2_1672678983070_0.png){:height 970, :width 482}
+	- ![Economist AI 1.3.png](../assets/Economist_AI_1.3_1672678989806_0.png)
+	-
+- # Cheat Sheets
+  collapsed:: true
+	- ![cheatsheet-deep-learning.pdf](../assets/cheatsheet-deep-learning_1672679021789_0.pdf)
+	- ![cheatsheet-machine-learning-tips-and-tricks.pdf](../assets/cheatsheet-machine-learning-tips-and-tricks_1672679026689_0.pdf)
+	- ![cheatsheet-supervised-learning.pdf](../assets/cheatsheet-supervised-learning_1672679031402_0.pdf)
+	- ![cheatsheet-unsupervised-learning.pdf](../assets/cheatsheet-unsupervised-learning_1672679034839_0.pdf)
+	- ![Keras Cheat Sheet.jpg](../assets/Keras_Cheat_Sheet_1672679038284_0.jpg)
+	- ![Neural Network Graphs.png](../assets/Neural_Network_Graphs_1672679049051_0.png)
+	- ![Standard Notations for Deep Learning.pdf](../assets/Standard_Notations_for_Deep_Learning_1672679057738_0.pdf)
+- # Libraries
+	- ![Tune - A Research Platform for Distributed Model Selection and Training.pdf](../assets/Tune_-_A_Research_Platform_for_Distributed_Model_Selection_and_Training_1672677273030_0.pdf) [[Ray]]
+-
