@@ -2,4 +2,4 @@
 - [[Machine Learning]]
 - [[Meta Learning]]
 - [[Reinforcement Learning]]
--
+- [[Genetic Algorithms]]

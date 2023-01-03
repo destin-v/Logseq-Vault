@@ -1,0 +1,12 @@
+- #### Actor Critic Methods
+  id:: 63b3955a-9107-42ac-afeb-09b1358bf6b9
+	- ![Continuous Control with Deep Reinforcement Learning.pdf](../assets/Continuous_Control_with_Deep_Reinforcement_Learning_1672627364861_0.pdf)
+	- ![Deterministic Policy Gradient Algorithms.pdf](../assets/Deterministic_Policy_Gradient_Algorithms_1672627372103_0.pdf)
+	- ![High-Dimensional Continuous Control Using Generalized Advantage Estimation.pdf](../assets/High-Dimensional_Continuous_Control_Using_Generalized_Advantage_Estimation_1672627426028_0.pdf)
+	- ![IMPALA.pdf](../assets/IMPALA_1672627430463_0.pdf)
+	- ![Optimizing Expectations - From Deep Reinforcement Learning to Stochastic Computation Graphs.pdf](../assets/Optimizing_Expectations_-_From_Deep_Reinforcement_Learning_to_Stochastic_Computation_Graphs_1672627434499_0.pdf)
+	- ![Proximal Policy Optimization Algorithms.pdf](../assets/Proximal_Policy_Optimization_Algorithms_1672627441191_0.pdf)
+	- ![Self-Imitation Learning.pdf](../assets/Self-Imitation_Learning_1672627449382_0.pdf)
+	- ![Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning.pdf](../assets/Simple_Statistical_Gradient-Following_Algorithms_for_Connectionist_Reinforcement_Learning_1672627453196_0.pdf)
+	- ![Soft Actor Critic.pdf](../assets/Soft_Actor_Critic_1672627457090_0.pdf)
+	- ![Trust Region Policy Optimization.pdf](../assets/Trust_Region_Policy_Optimization_1672627460835_0.pdf)

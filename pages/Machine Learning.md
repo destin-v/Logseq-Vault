@@ -1,17 +1,17 @@
+- # Overview
 - # Books
 	- ![Deep_Learning_with_Python_Second_Editio.pdf](../assets/Deep_Learning_with_Python_Second_Editio_1672678878356_0.pdf)[[Books]]
 	- ![Deep_Learning_with_PyTorch.pdf](../assets/Deep_Learning_with_PyTorch_1672678894461_0.pdf)[[Books]]
 	- ![Ng_MLY01_08.pdf](../assets/Ng_MLY01_08_1672678909696_0.pdf)[[Books]]
-- # Subfields
-	- ## Computer Vision
-		- [[Capsule Networks]]
-		- [[Convolutional]]
-		- [[Datasets]]
-		- [[Diffusion]]
-		- [[Generative Adversarial Networks]]
-		- [[Representation]]
-	- ## Natural Language
-		- [[Natural Language]]
+- # Computer Vision
+	- [[Capsule Networks]]
+	- [[Convolutional]]
+	- [[Datasets]]
+	- [[Diffusion]]
+	- [[Generative Adversarial Networks]]
+	- [[Representation]]
+- # Natural Language
+	- [[Natural Language Processing]]
 - # History
   collapsed:: true
 	- ![Economist AI 1.1.png](../assets/Economist_AI_1.1_1672678976869_0.png)
