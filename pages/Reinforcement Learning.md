@@ -22,7 +22,7 @@
 	- [[Self-Play]]{{embed ((63b39af2-e012-49b2-8570-93639cb3bd47))}}
 	-
 - # Games
-	- [[RL Agents - Games]]{{embed ((63b39b31-2b2a-4139-884c-cc6c6559877b))}}
+	- [[Games]] {{embed ((63b39b31-2b2a-4139-884c-cc6c6559877b))}}
 	-
 - # Architectures
 	- ![Asynchronous Methods for Deep Reinforcement Learning.pdf](../assets/Asynchronous_Methods_for_Deep_Reinforcement_Learning_1672677904946_0.pdf) [[Architectures]]

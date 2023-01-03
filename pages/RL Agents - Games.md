@@ -1,4 +1,4 @@
-- #### Games
+- #### RL Agents
   id:: 63b39b31-2b2a-4139-884c-cc6c6559877b
 	- #### Mazes
 		- ![Unsupervised Predictive Memory in a Goal-Directed Agent.pdf](../assets/Unsupervised_Predictive_Memory_in_a_Goal-Directed_Agent_1672676807376_0.pdf)
