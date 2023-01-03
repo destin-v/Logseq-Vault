@@ -4,12 +4,12 @@
 	- ![Deep_Learning_with_PyTorch.pdf](../assets/Deep_Learning_with_PyTorch_1672678894461_0.pdf)[[Books]]
 	- ![Ng_MLY01_08.pdf](../assets/Ng_MLY01_08_1672678909696_0.pdf)[[Books]]
 - # Computer Vision
-	- [[Capsule Networks]]
-	- [[Convolutional]]
-	- [[Datasets]]
-	- [[Diffusion]]
-	- [[Generative Adversarial Networks]]
-	- [[Representation]]
+	- [[Capsule Networks]]{{embed ((63b48a51-8b62-4bc3-aba3-210f902c763a))}}
+	- [[Convolutional]]{{embed ((63b48a78-07b1-4549-ba98-2948de52fddc))}}
+	- [[Datasets]]{{embed ((63b48ac7-405d-4607-a43b-b1e67a645c50))}}
+	- [[Diffusion]]{{embed ((63b48add-fbc7-4da9-992c-0462c402cfcd))}}
+	- [[Generative Adversarial Networks]]{{embed ((63b48af5-023f-4a69-9321-b574f6ea810b))}}
+	- [[Representation]]{{embed ((63b48b0f-c5e3-4443-8531-6de187a41d27))}}
 - # Natural Language
 	- [[Natural Language Processing]]
 - # History
@@ -29,4 +29,3 @@
 	- ![Standard Notations for Deep Learning.pdf](../assets/Standard_Notations_for_Deep_Learning_1672679057738_0.pdf)
 - # Libraries
 	- ![Tune - A Research Platform for Distributed Model Selection and Training.pdf](../assets/Tune_-_A_Research_Platform_for_Distributed_Model_Selection_and_Training_1672677273030_0.pdf) [[Ray]]
--

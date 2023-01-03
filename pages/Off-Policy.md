@@ -1,6 +1,6 @@
-- #### Methods
+- #### Papers
   id:: 63b39559-5fc9-4b62-8838-539fbc546667
-	- #### Q-Learning
+	- #### Q-Learning [[Reinforcement Learning]]
 	- ![Deep Recurrent Q-Learning for Partially Observable MDPs.pdf](../assets/Deep_Recurrent_Q-Learning_for_Partially_Observable_MDPs_1672677941740_0.pdf)
 	- ![Deep Reinforcement Learning from Self-Play in Imperfect-Information Games.pdf](../assets/Deep_Reinforcement_Learning_from_Self-Play_in_Imperfect-Information_Games_1672677947468_0.pdf)
 	- ![Deep Reinforcement Learning with Double Q-learning.pdf](../assets/Deep_Reinforcement_Learning_with_Double_Q-learning_1672677952025_0.pdf)
@@ -16,5 +16,5 @@
 	- ![Playing Atari with Deep Reinforcement Learning.pdf](../assets/Playing_Atari_with_Deep_Reinforcement_Learning_1672678097589_0.pdf)
 	- ![Prioritized Replay Experience.pdf](../assets/Prioritized_Replay_Experience_1672678101660_0.pdf)
 	- ![The Effects of Memory Replay in Reinforcement Learning.pdf](../assets/The_Effects_of_Memory_Replay_in_Reinforcement_Learning_1672678105925_0.pdf)
-	- #### Offline Learning
+	- #### Offline Learning [[Reinforcement Learning]]
 	- ![How to Leverage Unlabeled Data in Offline Reinforcement Learning.pdf](../assets/How_to_Leverage_Unlabeled_Data_in_Offline_Reinforcement_Learning_1672677887517_0.pdf)

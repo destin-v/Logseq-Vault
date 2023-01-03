@@ -1,4 +1,4 @@
-- #### Actor Critic Methods
+- #### Papers [[Reinforcement Learning]]
   id:: 63b3955a-9107-42ac-afeb-09b1358bf6b9
 	- ![Continuous Control with Deep Reinforcement Learning.pdf](../assets/Continuous_Control_with_Deep_Reinforcement_Learning_1672627364861_0.pdf)
 	- ![Deterministic Policy Gradient Algorithms.pdf](../assets/Deterministic_Policy_Gradient_Algorithms_1672627372103_0.pdf)

@@ -19,14 +19,16 @@
 - # Multi-Agent
 	- [[Centralized Actor-Critic]]{{embed ((63b39a3f-3524-4187-b8cd-74de4e7c7857))}}
 	- [[Communication]]{{embed ((63b39ac5-f280-4f0b-a636-8ea26654935a))}}
-	- [[Self-Play]]{{embed ((63b39af2-e012-49b2-8570-93639cb3bd47))}}
+	- [[Fictitious Self-Play]]{{embed ((63b39af2-e012-49b2-8570-93639cb3bd47))}}
 	-
 - # Games (RL)
 	- [[Games (RL)]] {{embed ((63b39b31-2b2a-4139-884c-cc6c6559877b))}}
 	-
 - # Architectures
-	- ![Asynchronous Methods for Deep Reinforcement Learning.pdf](../assets/Asynchronous_Methods_for_Deep_Reinforcement_Learning_1672677904946_0.pdf) [[Architectures]]
-	- ![Sample Factory - Egocentric 3D Control from Pixels at 100000 FPS with Asynchronous Reinforcement Learning.pdf](../assets/Sample_Factory_-_Egocentric_3D_Control_from_Pixels_at_100000_FPS_with_Asynchronous_Reinforcement_Learning_1672677909938_0.pdf) [[Architectures]]
+	- #### Papers
+		- ![Asynchronous Methods for Deep Reinforcement Learning.pdf](../assets/Asynchronous_Methods_for_Deep_Reinforcement_Learning_1672677904946_0.pdf) [[Architectures]]
+		- ![Sample Factory - Egocentric 3D Control from Pixels at 100000 FPS with Asynchronous Reinforcement Learning.pdf](../assets/Sample_Factory_-_Egocentric_3D_Control_from_Pixels_at_100000_FPS_with_Asynchronous_Reinforcement_Learning_1672677909938_0.pdf) [[Architectures]]
 - # Libraries
-	- ![RLlib - Abstractions for Distributed Reinforcement Learning.pdf](../assets/RLlib_-_Abstractions_for_Distributed_Reinforcement_Learning_1672677101916_0.pdf) [[Ray]]
-	- ![Tianshou - a Highly Modularized Deep Reinforcement Learning Library.pdf](../assets/Tianshou_-_a_Highly_Modularized_Deep_Reinforcement_Learning_Library_1672677194957_0.pdf)[[Ray]]
+	- #### Papers
+		- ![RLlib - Abstractions for Distributed Reinforcement Learning.pdf](../assets/RLlib_-_Abstractions_for_Distributed_Reinforcement_Learning_1672677101916_0.pdf) [[Ray]]
+		- ![Tianshou - a Highly Modularized Deep Reinforcement Learning Library.pdf](../assets/Tianshou_-_a_Highly_Modularized_Deep_Reinforcement_Learning_Library_1672677194957_0.pdf)[[Ray]]
