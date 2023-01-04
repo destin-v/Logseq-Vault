@@ -5,17 +5,17 @@
 	- #### Othello
 		- ![Learning to Play Othello Without Human Knowledge.pdf](../assets/Learning_to_Play_Othello_Without_Human_Knowledge_1672676856350_0.pdf)
 	- #### Chess
-		- ![Giraffe - Using Deep Reinforcement Learning to Play Chess.pdf](../assets/Giraffe_-_Using_Deep_Reinforcement_Learning_to_Play_Chess_1672627504036_0.pdf)
-		- ![Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm.pdf](../assets/Mastering_Chess_and_Shogi_by_Self-Play_with_a_General_Reinforcement_Learning_Algorithm_1672627510039_0.pdf)
+		- ![Giraffe - Using Deep Reinforcement Learning to Play Chess.pdf](../assets/Giraffe_-_Using_Deep_Reinforcement_Learning_to_Play_Chess_1672627504036_0.pdf) [[Tree Search]]
+		- ![Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm.pdf](../assets/Mastering_Chess_and_Shogi_by_Self-Play_with_a_General_Reinforcement_Learning_Algorithm_1672627510039_0.pdf) [[Tree Search]]
 	- #### Go
-		- ![Mastering the Game of Go with Deep Neural Networks and Tree Search.pdf](../assets/Mastering_the_Game_of_Go_with_Deep_Neural_Networks_and_Tree_Search_1672676664634_0.pdf)
+		- ![Mastering the Game of Go with Deep Neural Networks and Tree Search.pdf](../assets/Mastering_the_Game_of_Go_with_Deep_Neural_Networks_and_Tree_Search_1672676664634_0.pdf) [[Tree Search]]
 		  collapsed:: true
 			- ![alpha_go_zero_cheat_sheet.png](../assets/alpha_go_zero_cheat_sheet_1672676685333_0.png)
-		- ![Mastering the Game of Go without Human Knowledge.pdf](../assets/Mastering_the_Game_of_Go_without_Human_Knowledge_1672676678146_0.pdf)
+		- ![Mastering the Game of Go without Human Knowledge.pdf](../assets/Mastering_the_Game_of_Go_without_Human_Knowledge_1672676678146_0.pdf) [[Tree Search]]
 	- #### DOTA
-		- ![Dota 2 with Large Scale Deep Reinforcement Learning.pdf](../assets/Dota_2_with_Large_Scale_Deep_Reinforcement_Learning_1672676650538_0.pdf)
+		- ![Dota 2 with Large Scale Deep Reinforcement Learning.pdf](../assets/Dota_2_with_Large_Scale_Deep_Reinforcement_Learning_1672676650538_0.pdf) [[On-Policy]]
 	- #### Super Smash Bros
-		- ![Beating the World’s Best at Super Smash Bros. Melee with Deep Reinforcement.pdf](../assets/Beating_the_World’s_Best_at_Super_Smash_Bros._Melee_with_Deep_Reinforcement_1672627353600_0.pdf)
+		- ![Beating the World’s Best at Super Smash Bros. Melee with Deep Reinforcement.pdf](../assets/Beating_the_World’s_Best_at_Super_Smash_Bros._Melee_with_Deep_Reinforcement_1672627353600_0.pdf) [[On-Policy]]
 	- #### StarCraft II
-		- ![Grandmaster level in StarCraft II using multi-agent reinforcement learning.pdf](../assets/Grandmaster_level_in_StarCraft_II_using_multi-agent_reinforcement_learning_1672676876691_0.pdf)
-		- ![AlphaStar - Considerations andHuman-like Constraints for Deep Learning Game Interfaces.pdf](../assets/AlphaStar_-_Considerations_andHuman-like_Constraints_for_Deep_Learning_Game_Interfaces_1672677058919_0.pdf)
+		- ![Grandmaster level in StarCraft II using multi-agent reinforcement learning.pdf](../assets/Grandmaster_level_in_StarCraft_II_using_multi-agent_reinforcement_learning_1672676876691_0.pdf) [[Centralized Actor-Critic]]
+		- ![AlphaStar - Considerations andHuman-like Constraints for Deep Learning Game Interfaces.pdf](../assets/AlphaStar_-_Considerations_andHuman-like_Constraints_for_Deep_Learning_Game_Interfaces_1672677058919_0.pdf) [[Centralized Actor-Critic]]
