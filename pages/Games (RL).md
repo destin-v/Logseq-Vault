@@ -3,7 +3,7 @@
 	- #### Mazes
 		- ![Unsupervised Predictive Memory in a Goal-Directed Agent.pdf](../assets/Unsupervised_Predictive_Memory_in_a_Goal-Directed_Agent_1672676807376_0.pdf)
 	- #### Othello
-		- ![Learning to Play Othello Without Human Knowledge.pdf](../assets/Learning_to_Play_Othello_Without_Human_Knowledge_1672676856350_0.pdf)
+		- ![Learning to Play Othello Without Human Knowledge.pdf](../assets/Learning_to_Play_Othello_Without_Human_Knowledge_1672676856350_0.pdf) [[Tree Search]]
 	- #### Chess
 		- ![Giraffe - Using Deep Reinforcement Learning to Play Chess.pdf](../assets/Giraffe_-_Using_Deep_Reinforcement_Learning_to_Play_Chess_1672627504036_0.pdf) [[Tree Search]]
 		- ![Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm.pdf](../assets/Mastering_Chess_and_Shogi_by_Self-Play_with_a_General_Reinforcement_Learning_Algorithm_1672627510039_0.pdf) [[Tree Search]]
