@@ -1,8 +1,6 @@
 - # Overview
 - # Books
-	- ![Deep_Learning_with_Python_Second_Editio.pdf](../assets/Deep_Learning_with_Python_Second_Editio_1672678878356_0.pdf)[[Books]]
-	- ![Deep_Learning_with_PyTorch.pdf](../assets/Deep_Learning_with_PyTorch_1672678894461_0.pdf)[[Books]]
-	- ![Ng_MLY01_08.pdf](../assets/Ng_MLY01_08_1672678909696_0.pdf)[[Books]]
+	- {{embed [[Books (Machine Learning)]]}}
 - # Computer Vision
 	- [[Capsule Networks]]{{embed ((63b48a51-8b62-4bc3-aba3-210f902c763a))}}
 	- [[Convolutional]]{{embed ((63b48a78-07b1-4549-ba98-2948de52fddc))}}
