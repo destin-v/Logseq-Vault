@@ -1,4 +1,5 @@
-- [[Machine Learning]]
-- [[Meta Learning]]
-- [[Reinforcement Learning]]
-- [[Genetic Algorithms]]
+- {{embed [[Machine Learning]]}}
+- {{embed [[Meta Learning]]}}
+- {{embed [[Reinforcement Learning]]}}
+- {{embed [[Genetic Algorithms]]}}
+-
