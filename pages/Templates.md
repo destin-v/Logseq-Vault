@@ -1,4 +1,6 @@
-author:: Name
-type:: [[paper]]
-tags:: None
-template:: Paper Template
+- author : Name
+  type : [[paper]]
+  tags : None
+  template:: Paper Template
+-
+-

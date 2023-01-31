@@ -1,8 +1,8 @@
 - [Deep_Learning_with_Python_Second_Edition.pdf](../assets/Deep_Learning_with_Python_Second_Editio_1672678878356_0.pdf)
   collapsed:: true
-	- author:: [[F. Chollet]]
-	  type:: [[Book]] 
-	  tags:: [[Machine Learning]] [[Keras]][[Tensorflow]]
+	- author : [[F. Chollet]]
+	  type : [[Book]]
+	  tags : [[Machine Learning]] [[Keras]][[Tensorflow]]
 	- [chapter02_mathematical-building-blocks.ipynb](../assets/chapter02_mathematical-building-blocks_1675184477293_0.ipynb)
 	- [chapter03_introduction-to-keras-and-tf.ipynb](../assets/chapter03_introduction-to-keras-and-tf_1675184488243_0.ipynb)
 	- [chapter04_getting-started-with-neural-networks.ipynb](../assets/chapter04_getting-started-with-neural-networks_1675184493249_0.ipynb)
@@ -26,11 +26,11 @@
 	- [chapter14_conclusions.ipynb](../assets/chapter14_conclusions_1675184617310_0.ipynb)
 - [Deep_Learning_with_PyTorch.pdf](../assets/Deep_Learning_with_PyTorch_1672678894461_0.pdf)
   collapsed:: true
-	- author:: [[Eli Stevens]]
-	  type:: [[Book]]
-	  tags:: [[Machine Learning]][[PyTorch]][[Image Classification]][[Image Localization]]
+	- author : [[Eli Stevens]]
+	  type : [[Book]]
+	  tags : [[Machine Learning]][[PyTorch]][[Image Classification]][[Image Localization]]
 - [Andrew Ng - Coursera ML.pdf](../assets/Ng_MLY01_08_1672678909696_0.pdf)
   collapsed:: true
-	- author:: [[Andrew Ng]]
-	  type:: [[Book]]
-	  tags:: [[Machine Learning]][[Numpy]][[Computer Vision]][[Natural Language Processing]][[Generative Art]]
+	- author : [[Andrew Ng]]
+	  type : [[Book]]
+	  tags : [[Machine Learning]][[Numpy]][[Computer Vision]][[Natural Language Processing]][[Generative Art]]

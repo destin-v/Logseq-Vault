@@ -11,4 +11,4 @@
 - # Natural Language
 	- {{embed [[Natural Language Processing]]}}
 - # Libraries
-- {{embed [[Libraries (ML)]] }}
+- {{embed [[Libraries (ML)]]}}
