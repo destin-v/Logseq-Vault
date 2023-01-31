@@ -1,11 +1,8 @@
 - # Overview
 	- ![A Brief Survey of Deep Reinforcement Learning.pdf](../assets/A_Brief_Survey_of_Deep_Reinforcement_Learning_1672627313337_0.pdf)
+	  tags:: [[Survey Papers]]
 - # Books
-	- ![bookdraft2017.pdf](../assets/bookdraft2017_1672678693378_0.pdf)[[Books]]
-	- ![bookdraft2018.pdf](../assets/bookdraft2018_1672678719784_0.pdf)[[Books]]
-	- ![Solution Manual.pdf](../assets/Solution_Manual_1672678742844_0.pdf)[[Books]]
-	- TODO: add MATLAB
-	- TODO: add Python
+- {{embed [[Books (Reinforcement Learning)]]}}
 - # Policy
 	- [[On-Policy]] {{embed ((63b3955a-9107-42ac-afeb-09b1358bf6b9))}}
 	- [[Off-Policy]] {{embed ((63b39559-5fc9-4b62-8838-539fbc546667))}}
