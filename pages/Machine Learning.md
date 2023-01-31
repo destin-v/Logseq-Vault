@@ -2,12 +2,12 @@
 - # Books
 	- {{embed [[Books (Machine Learning)]]}}
 - # Computer Vision
-	- [[Capsule Networks]]{{embed ((63b48a51-8b62-4bc3-aba3-210f902c763a))}}
+	- {{embed [[Capsule Networks]]}}
 	- [[Convolutional]]{{embed ((63b48a78-07b1-4549-ba98-2948de52fddc))}}
 	- [[Datasets]]{{embed ((63b48ac7-405d-4607-a43b-b1e67a645c50))}}
 	- [[Diffusion]]{{embed ((63b48add-fbc7-4da9-992c-0462c402cfcd))}}
 	- [[Generative Adversarial Networks]]{{embed ((63b48af5-023f-4a69-9321-b574f6ea810b))}}
-	- [[Representation]]{{embed ((63b48b0f-c5e3-4443-8531-6de187a41d27))}}
+	- [[Representation Learning]]{{embed ((63b48b0f-c5e3-4443-8531-6de187a41d27))}}
 - # Natural Language
 	- [[Natural Language Processing]]
 - # History
