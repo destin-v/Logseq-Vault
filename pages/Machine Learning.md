@@ -1,3 +1,5 @@
+filters:: {}
+
 - # Overview
 - # Books
 	- {{embed [[Books (Machine Learning)]]}}
