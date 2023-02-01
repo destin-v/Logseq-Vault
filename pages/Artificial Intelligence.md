@@ -1,5 +1,11 @@
-- {{embed [[Machine Learning]]}}
-- {{embed [[Meta Learning]]}}
-- {{embed [[Reinforcement Learning]]}}
-- {{embed [[Genetic Algorithms]]}}
+- # Machine Learning
+	- {{embed [[Machine Learning]]}}
+- # Meta Learning
+	- {{embed [[Meta Learning]]}}
+- # Reinforcement Learning
+	- {{embed [[Reinforcement Learning]]}}
+- # Genetic Algorithms
+	- {{embed [[Genetic Algorithms]]}}
 -
+- # AGI
+- {{embed [[AGI]]}}

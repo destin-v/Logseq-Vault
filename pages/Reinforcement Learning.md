@@ -1,6 +1,5 @@
 - # Overview
 	- ![A Brief Survey of Deep Reinforcement Learning.pdf](../assets/A_Brief_Survey_of_Deep_Reinforcement_Learning_1672627313337_0.pdf)
-	  collapsed:: true
 		- tags : [[Survey Papers]]
 - # Books
 - {{embed [[Books (Reinforcement Learning)]]}}
