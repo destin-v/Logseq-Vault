@@ -13,9 +13,9 @@
 			- ![alpha_go_zero_cheat_sheet.png](../assets/alpha_go_zero_cheat_sheet_1672676685333_0.png)
 		- ![Mastering the Game of Go without Human Knowledge.pdf](../assets/Mastering_the_Game_of_Go_without_Human_Knowledge_1672676678146_0.pdf) [[Tree Search]]
 	- #### DOTA
-		- ![Dota 2 with Large Scale Deep Reinforcement Learning.pdf](../assets/Dota_2_with_Large_Scale_Deep_Reinforcement_Learning_1672676650538_0.pdf) [[On-Policy]]
+		- ![Dota 2 with Large Scale Deep Reinforcement Learning.pdf](../assets/Dota_2_with_Large_Scale_Deep_Reinforcement_Learning_1672676650538_0.pdf) [[Actor-Critic]]
 	- #### Super Smash Bros
-		- ![Beating the World’s Best at Super Smash Bros. Melee with Deep Reinforcement.pdf](../assets/Beating_the_World’s_Best_at_Super_Smash_Bros._Melee_with_Deep_Reinforcement_1672627353600_0.pdf) [[On-Policy]]
+		- ![Beating the World’s Best at Super Smash Bros. Melee with Deep Reinforcement.pdf](../assets/Beating_the_World’s_Best_at_Super_Smash_Bros._Melee_with_Deep_Reinforcement_1672627353600_0.pdf) [[Actor-Critic]]
 	- #### StarCraft II
 		- ![Grandmaster level in StarCraft II using multi-agent reinforcement learning.pdf](../assets/Grandmaster_level_in_StarCraft_II_using_multi-agent_reinforcement_learning_1672676876691_0.pdf) [[Centralized Actor-Critic]]
 		- ![AlphaStar - Considerations andHuman-like Constraints for Deep Learning Game Interfaces.pdf](../assets/AlphaStar_-_Considerations_andHuman-like_Constraints_for_Deep_Learning_Game_Interfaces_1672677058919_0.pdf) [[Centralized Actor-Critic]]

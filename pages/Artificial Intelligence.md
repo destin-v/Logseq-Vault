@@ -4,6 +4,8 @@
 	- {{embed [[Meta Learning]]}}
 - # Reinforcement Learning
 	- {{embed [[Reinforcement Learning]]}}
+- # Imitation Learning
+- {{embed [[Imitation Learning]]}}
 - # Genetic Algorithms
 	- {{embed [[Genetic Algorithms]]}}
 -

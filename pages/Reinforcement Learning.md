@@ -1,20 +1,20 @@
-- # Overview
+- ## Overview
 	- ![A Brief Survey of Deep Reinforcement Learning.pdf](../assets/A_Brief_Survey_of_Deep_Reinforcement_Learning_1672627313337_0.pdf)
 	  collapsed:: true
-		- tags : [[Survey Papers]]
-- # Books
+		- tags : [[Artificial Intelligence]] [[Survey Papers]]
+- ## Books
 - {{embed [[Books (Reinforcement Learning)]]}}
-- # Policy
-	- [[On-Policy]] {{embed ((63b3955a-9107-42ac-afeb-09b1358bf6b9))}}
-	- [[Off-Policy]] {{embed ((63b39559-5fc9-4b62-8838-539fbc546667))}}
-- # Exploration
+- ## Methods
+	- {{embed [[Actor-Critic]]}}
+	- {{embed [[Q-Learning]]}}
+- ## Exploration
 	- [[Curiosity]]{{embed ((63b396c7-f75a-4adb-bdaa-58dbbbe117c6))}}
 	- [[Maximum Entropy]]{{embed ((63b39770-69d4-4110-bf00-6b246e2043fa))}}
-- # Model
+- ## Model
 	- [[Model Free RL]]{{embed ((63b39824-3c4e-4e96-b8c4-de06ad876234))}}
 	- [[Model Based RL]]{{embed ((63b39841-8f1d-407f-b34b-452b80fecb16))}}
 	-
-- # Multi-Agent
+- ## Multi-Agent
 	- [[Centralized Actor-Critic]]{{embed ((63b39a3f-3524-4187-b8cd-74de4e7c7857))}}
 	- [[Communication]]{{embed ((63b39ac5-f280-4f0b-a636-8ea26654935a))}}
 	- [[Fictitious Self-Play]]{{embed ((63b39af2-e012-49b2-8570-93639cb3bd47))}}

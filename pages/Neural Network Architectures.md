@@ -2,7 +2,7 @@
   collapsed:: true
 	- author : [[Ian J. Goodfellow]]
 	  type : [[paper]]
-	  tags :  [[Artificial Intelligence]] [[Neural Network Architectures]] [[Neural Network Activations]]
+	  tags :  [[Neural Network Architectures]] [[Neural Network Activations]]
 - ![An Overview of Gradient Descent Optimization Algorithms.pdf](../assets/An_Overview_of_Gradient_Descent_Optimization_Algorithms_1675288836354_0.pdf)
   collapsed:: true
 	- author : [[Sebastian Ruder]]
@@ -12,7 +12,7 @@
   collapsed:: true
 	- author : [[Alex Graves]]
 	  type : [[paper]]
-	  tags : [[Artificial Intelligence]] [[Neural Network Architectures]] [[Differential Neural Computing]]
+	  tags : [[Neural Network Architectures]] [[Differential Neural Computing]]
 - ![A Theoretically Grounded Application of Dropout in Recurrent Neural Networks.pdf](../assets/A_Theoretically_Grounded_Application_of_Dropout_in_Recurrent_Neural_Networks_1675288980202_0.pdf)
   collapsed:: true
 	- author : Name
@@ -34,7 +34,7 @@
   collapsed:: true
 	- author : Name
 	  type : [[paper]]
-	  tags : [[Artificial Intelligence]] [[Attention Neural Networks]] [[Transformer Networks]]
+	  tags : [[Reinforcement Learning]] [[Attention Neural Networks]] [[Transformer Networks]]
 	-
 	-
 		-

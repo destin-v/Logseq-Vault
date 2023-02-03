@@ -1,16 +1,16 @@
 filters:: {}
 
-- # Overview
-- # Books
+- ## Overview
+- ## Books
 	- {{embed [[Books (Machine Learning)]]}}
-- # Computer Vision
+- ## Computer Vision
 	- {{embed [[Capsule Networks]]}}
 	- {{embed [[Convolutional Neural Networks]]}}
 	- {{embed [[Datasets]]}}
 	- {{embed [[Diffusion]]}}
 	- {{embed [[Generative Adversarial Networks]]}}
 	- {{embed [[Representation Learning]]}}
-- # Natural Language
+- ## Natural Language
 	- {{embed [[Natural Language Processing]]}}
-- # Libraries
+- ## Libraries
 - {{embed [[Libraries (ML)]]}}
