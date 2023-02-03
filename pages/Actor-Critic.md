@@ -12,7 +12,7 @@
   collapsed:: true
 	- author : [[John Schulman]] [[Sergey Levine]] [[Michael I. Jordon]] [[Pieter Abbeel]]
 	  type : [[paper]]
-	  tags : [[Reinforcement Learning]] [[Berkely]] [[Actor-Critic]] [[On-Policy RL]] [[Continuous Control]] [[TD Learning]]
+	  tags : [[Reinforcement Learning]] [[Berkeley]] [[Actor-Critic]] [[On-Policy RL]] [[Continuous Control]] [[TD Learning]]
 - ![IMPALA.pdf](../assets/IMPALA_1672627430463_0.pdf)
   collapsed:: true
 	- author : [[Volodymyr Mnih]]
@@ -42,4 +42,4 @@
   collapsed:: true
 	- author : [[John Schulman]] [[Sergey Levine]] [[Michael I. Jordon]] [[Pieter Abbeel]] 
 	  type : [[paper]]
-	  tags : [[Reinforcement Learning]] [[Berkely]] [[Trust Region Policy Optimization]] [[Continuous Control]]
+	  tags : [[Reinforcement Learning]] [[Berkeley]] [[Trust Region Policy Optimization]] [[Continuous Control]]
