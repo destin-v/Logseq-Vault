@@ -4,7 +4,11 @@
 	  type : [[paper]]
 	  tags : [[Machine Learning]] [[Computer Vision]] [[Representation Learning]]
 - [Triplet Loss and Online Triplet Mining in TensorFlow](../assets/Triplet_Loss_and_Online_Triplet_Mining_in_TensorFlow_|_Olivier_Moindrot_blog_1672627854742_0.webarchive)
-  collapsed:: true
-	- author : Olivier Moindrot
+	- author : [[Olivier Moindrot]]
 	  type : [[website]]
-	  tags : [[Machine Learning]] [[Computer Vision]] [[Representation Learning]]
+	  tags : [[Machine Learning]] [[Computer Vision]] [[Triplet Loss]] [[Contrastive Learning]]
+- ![Supervised Contrastive Learning.pdf](../assets/Supervised_Contrastive_Learning_1675460261174_0.pdf)
+	- author : [[Prannay Khosla]]
+	  type : [[paper]]
+	  tags : [[Machine Learning]] [[Supervised Training]] [[Contrastive Learning]]
+	-
