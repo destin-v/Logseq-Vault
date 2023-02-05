@@ -37,7 +37,7 @@
   collapsed:: true
 	- author : [[Pieter Abbeel]] [[Sergey Levine]] 
 	  type : [[paper]]
-	  tags : [[Reinforcement Learning]] [[Continuous Control]] [[Off-Policy (RL)]] [[Actor-Critic]] [[Maximum Entropy]]
+	  tags : [[Reinforcement Learning]] [[Continuous Control]] [[Off-Policy (RL)]] [[Actor-Critic]] [[Maximum Entropy]] [[Sim to Real]]
 - ![Trust Region Policy Optimization.pdf](../assets/Trust_Region_Policy_Optimization_1672627460835_0.pdf)
   collapsed:: true
 	- author : [[John Schulman]] [[Sergey Levine]] [[Michael I. Jordon]] [[Pieter Abbeel]] 

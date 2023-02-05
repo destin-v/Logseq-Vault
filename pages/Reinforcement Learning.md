@@ -7,26 +7,20 @@
 - ## Methods
 	- {{embed [[Actor-Critic]]}}
 	- {{embed [[Q-Learning]]}}
-- ## Exploration
-	- [[Curiosity]]{{embed ((63b396c7-f75a-4adb-bdaa-58dbbbe117c6))}}
-	- [[Maximum Entropy]]{{embed ((63b39770-69d4-4110-bf00-6b246e2043fa))}}
-- ## Model
-	- [[Model Free RL]]{{embed ((63b39824-3c4e-4e96-b8c4-de06ad876234))}}
-	- [[Model Based RL]]{{embed ((63b39841-8f1d-407f-b34b-452b80fecb16))}}
+	- {{embed [[Curiosity]]}}
+	- {{embed [[Maximum Entropy]]}}
+	- {{embed [[Model Based RL]]}}
+	- {{embed [[Multi-Agent]]}}
+	- {{embed [[Communication]]}}
+	- {{embed [[Fictitious Self-Play]]}}
+- ## Games (RL)
+	- {{embed [[Games (RL)]]}}
 	-
-- ## Multi-Agent
-	- [[Centralized Actor-Critic]]{{embed ((63b39a3f-3524-4187-b8cd-74de4e7c7857))}}
-	- [[Communication]]{{embed ((63b39ac5-f280-4f0b-a636-8ea26654935a))}}
-	- [[Fictitious Self-Play]]{{embed ((63b39af2-e012-49b2-8570-93639cb3bd47))}}
-	-
-- # Games (RL)
-	- [[Games (RL)]] {{embed ((63b39b31-2b2a-4139-884c-cc6c6559877b))}}
-	-
-- # Architectures
+- ## Architectures
 	- #### Papers
 		- ![Asynchronous Methods for Deep Reinforcement Learning.pdf](../assets/Asynchronous_Methods_for_Deep_Reinforcement_Learning_1672677904946_0.pdf) [[Architectures]]
 		- ![Sample Factory - Egocentric 3D Control from Pixels at 100000 FPS with Asynchronous Reinforcement Learning.pdf](../assets/Sample_Factory_-_Egocentric_3D_Control_from_Pixels_at_100000_FPS_with_Asynchronous_Reinforcement_Learning_1672677909938_0.pdf) [[Architectures]]
-- # Libraries
+- ## Libraries
 	- #### Papers
 		- ![RLlib - Abstractions for Distributed Reinforcement Learning.pdf](../assets/RLlib_-_Abstractions_for_Distributed_Reinforcement_Learning_1672677101916_0.pdf) [[Ray]]
 		- ![Tianshou - a Highly Modularized Deep Reinforcement Learning Library.pdf](../assets/Tianshou_-_a_Highly_Modularized_Deep_Reinforcement_Learning_Library_1672677194957_0.pdf)[[Ray]]

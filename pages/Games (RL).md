@@ -17,5 +17,5 @@
 	- #### Super Smash Bros
 		- ![Beating the World’s Best at Super Smash Bros. Melee with Deep Reinforcement.pdf](../assets/Beating_the_World’s_Best_at_Super_Smash_Bros._Melee_with_Deep_Reinforcement_1672627353600_0.pdf) [[Actor-Critic]]
 	- #### StarCraft II
-		- ![Grandmaster level in StarCraft II using multi-agent reinforcement learning.pdf](../assets/Grandmaster_level_in_StarCraft_II_using_multi-agent_reinforcement_learning_1672676876691_0.pdf) [[Centralized Actor-Critic]]
-		- ![AlphaStar - Considerations andHuman-like Constraints for Deep Learning Game Interfaces.pdf](../assets/AlphaStar_-_Considerations_andHuman-like_Constraints_for_Deep_Learning_Game_Interfaces_1672677058919_0.pdf) [[Centralized Actor-Critic]]
+		- ![Grandmaster level in StarCraft II using multi-agent reinforcement learning.pdf](../assets/Grandmaster_level_in_StarCraft_II_using_multi-agent_reinforcement_learning_1672676876691_0.pdf) [[Multi-Agent]]
+		- ![AlphaStar - Considerations andHuman-like Constraints for Deep Learning Game Interfaces.pdf](../assets/AlphaStar_-_Considerations_andHuman-like_Constraints_for_Deep_Learning_Game_Interfaces_1672677058919_0.pdf) [[Multi-Agent]]
