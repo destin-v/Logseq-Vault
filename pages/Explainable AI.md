@@ -1,4 +1,9 @@
 - ### Papers
+- ![Axiomatic Attribution for Deep Networks.pdf](../assets/Axiomatic_Attribution_for_Deep_Networks_1675794540135_0.pdf)
+  collapsed:: true
+	- author : [[Mukund Sundararajan]]
+	  type : [[paper]]
+	  tags : [[Explainable AI]] [[Computer Vision]] [[Convolutional Neural Networks]] [[Natural Language Processing]] [[Visualization]] [[Integrated Gradients]] [[Sensitivity]]
 - ![Deep Inside Convolutional Networks - Visualising Image Classification Models and Saliency Maps.pdf](../assets/Deep_Inside_Convolutional_Networks_-_Visualising_Image_Classification_Models_and_Saliency_Maps_1675714177817_0.pdf)
   collapsed:: true
 	- author : [[Karen Simonyan]]
@@ -9,7 +14,6 @@
 		- To generate an image that maximizes the output of a class, simply freeze the hidden layers and let backpropagation adjust the input image.
 		- To generate the saliency map, use backpropagation to generate the Jacobian matrix (derivatives) leading up the input image.  The Jacobian matrix is the saliency map for that particular image.
 		- Using the Jacobian matrix, it is possible to perform automatic segmentation of objects within an image.
-	-
 - ![Visualizing and Understanding Convolutional Networks.pdf](../assets/Visualizing_and_Understanding_Convolutional_Networks_1675460396745_0.pdf)
   collapsed:: true
 	- author : [[Matthew Zeiler]] 

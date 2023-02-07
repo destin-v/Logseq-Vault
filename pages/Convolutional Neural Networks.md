@@ -14,6 +14,12 @@
 		- author : [[Andrej Karpathy]]
 		  type : [[paper]]
 		  tags : [[Machine Learning]] [[Computer Vision]]  [[Video Processing]]  [[Neural Network Architectures]]
+	- ![Striving for Simplicity - The All Convolutional Net.pdf](../assets/Striving_for_Simplicity_-_The_All_Convolutional_Net_1675782566307_0.pdf)
+	  collapsed:: true
+		- author : Name
+		  type : [[paper]]
+		  tags : [[Machine Learning]] [[Computer Vision]]  [[Video Processing]]  [[Neural Network Architectures]] [[Explainable AI]] [[Visualization]]
+		-
 	- ![You Only Look Once Unified, Real-Time Object Detection.pdf](../assets/You_Only_Look_Once_Unified,_Real-Time_Object_Detection_1672624360859_0.pdf)
 	  collapsed:: true
 		- author : Name
