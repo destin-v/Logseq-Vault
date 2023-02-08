@@ -15,7 +15,6 @@
 		- To generate the saliency map, use backpropagation to generate the Jacobian matrix (derivatives) leading up the input image.  The Jacobian matrix is the saliency map for that particular image.
 		- Using the Jacobian matrix, it is possible to perform automatic segmentation of objects within an image.
 - ![Visualizing and Understanding Convolutional Networks.pdf](../assets/Visualizing_and_Understanding_Convolutional_Networks_1675460396745_0.pdf)
-  collapsed:: true
 	- author : [[Matthew Zeiler]] 
 	  type : [[paper]]
 	  tags : [[Explainable AI]] [[Computer Vision]] [[Convolutional Neural Networks]] [[Visualization]] [[ImageNet]] [[Deconv Nets]]
@@ -30,18 +29,30 @@
 -
 - ### Websites
 - [Building Blocks for Explainable AI](https://distill.pub/2018/building-blocks/)
-  collapsed:: true
 	- author : [[Chris Olah]]
 	  type : [[website]] 
 	  tags : [[Computer Vision]] [[Convolutional Neural Networks]] [[Visualization]]
 - [Understanding RL Vision](https://distill.pub/2020/understanding-rl-vision/)
-  collapsed:: true
 	- author : [[Chris Olah]] 
 	  type : [[website]] 
 	  tags : [[Reinforcement Learning]] [[Computer Vision]] [[Convolutional Neural Networks]] [[Visualization]]
+- [Visualizing Representations](http://colah.github.io/posts/2015-01-Visualizing-Representations/)
+	- author : [[Chris Olah]] 
+	  type : [[website]] 
+	  tags : [[Convolutional Neural Networks]] [[Visualization]]
+	- **Key Insights:**
+	  collapsed:: true
+		- Step 1) Train a bunch of different neural networks to do the same thing.
+		- Step 2) Retrieve the high-dimensional representations of a series of inputs in the hidden layers of those neural networks.
+		- Step 3a) Apply t-SNE to the representations in a given network, generating a low-dimensional visualization of how similar the representation of each of the inputs is to one-another. This is what you'd call "regular t-SNE".
+		- OR:
+		- Step 3b) Find the distance matrix for all the representations from a given network. Convert it to a vector, and think of it as a high-dimensional representation of the the network itself. Then, with all the distance vectors for all the networks from step 1, use t-SNE to generate a low-dimensional embedding of the networks themselves. This is meta-SNE, since you're embedding the networks based on their entire set of representations rather than embedding the specific representations of inputs in a particular network.
+		- ![Screen Shot 2023-02-08 at 2.04.35 PM.png](../assets/Screen_Shot_2023-02-08_at_2.04.35_PM_1675883078015_0.png){:height 143, :width 368}
+		- $D_{X}$ represents the relative distances of all embeddings to other embeddings of the neural network.  This can be transformed into a vector which we can use as meta-tsne
+	-
 -
 - ### Code
-- [Gradient CAM (Grad-CAM: Gradient-weighted Class Activation Mapping)](https://github.com/ramprs/grad-cam/)
-- [Lucid](https://github.com/tensorflow/lucid)
+- [Integrated Gradients](https://github.com/ankurtaly/Integrated-Gradients)
+- [Grad-CAM: Gradient-weighted Class Activation Mapping](https://github.com/ramprs/grad-cam/)
 - [Understanding RL Vision (Code)](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/misc/rl_util.ipynb)
 -
