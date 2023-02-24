@@ -40,3 +40,11 @@
 		-
 	-
 	-
+-
+- ### Websites:
+- [Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
+	- author : [[Austin Huang]]
+	  type : [[website]] 
+	  tags : [[Attention Neural Networks]] [[Transformer Networks]] [[Sequence to Sequence Models]]
+	-
+-

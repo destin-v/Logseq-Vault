@@ -15,6 +15,7 @@
 		- To generate the saliency map, use backpropagation to generate the Jacobian matrix (derivatives) leading up the input image.  The Jacobian matrix is the saliency map for that particular image.
 		- Using the Jacobian matrix, it is possible to perform automatic segmentation of objects within an image.
 - ![Visualizing and Understanding Convolutional Networks.pdf](../assets/Visualizing_and_Understanding_Convolutional_Networks_1675460396745_0.pdf)
+  collapsed:: true
 	- author : [[Matthew Zeiler]] 
 	  type : [[paper]]
 	  tags : [[Explainable AI]] [[Computer Vision]] [[Convolutional Neural Networks]] [[Visualization]] [[ImageNet]] [[Deconv Nets]]

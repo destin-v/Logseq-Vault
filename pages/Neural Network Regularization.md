@@ -1,4 +1,3 @@
--
 - ![Batch Normalization - Accelerating Deep Network Training by Reducing Internal Covariate Shift.pdf](../assets/Batch_Normalization_-_Accelerating_Deep_Network_Training_by_Reducing_Internal_Covariate_Shift_1675289476918_0.pdf)
 	- author : Name
 	  type : [[paper]]
