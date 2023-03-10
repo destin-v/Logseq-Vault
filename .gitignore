@@ -2,3 +2,4 @@
 logseq/bak/*
 logseq/.recycle/*
 *.edn
+*.pyc
