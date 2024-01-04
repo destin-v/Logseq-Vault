@@ -15,7 +15,7 @@ Here we show a graph visualization of how the nodes are linked.  When selecting 
 
 <figure>
     <p align="center">
-    <img title="graph" alt="Alt text" src="photos/logseq_graph.gif">
+    <img title="graph" alt="Alt text" src="photos/logseq_graph.gif" width="1000">
     </p>
 </figure>
 
