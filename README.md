@@ -13,4 +13,12 @@ Logseq allows me to organize, search, and retrieve information in a way that is 
 
 Here we show a graph visualization of how the nodes are linked.  When selecting a node, the user dives into that node which shows connections with other nodes.  Nodes can contain links to other nodes or assets (i.e. PDF documents) to information.
 
-<img title="graph" alt="Alt text" src="photos/logseq_graph.gif">
+<figure>
+    <p align="center">
+    <img title="graph" alt="Alt text" src="photos/logseq_graph.gif">
+    </p>
+</figure>
+
+<p align="center">
+<b>Fig 1: Example of searching through logseq to find and read a paper.</b>
+</p>
